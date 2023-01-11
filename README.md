@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=woound&label=Profile%20views&color=0e75b6&style=flat" alt="woound" /> </p>
 
-- 🌱 Currently learning **Java and Python, with plans get started on JavaScript**
+- 🌱 Currently learning **Java, JavaScript, HTML, CSS**
 
 - 📄 I speak **English, Italian and Urdu fluently, with interest into Japanese and Korean.**
 
