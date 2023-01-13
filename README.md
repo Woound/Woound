@@ -1,5 +1,5 @@
 <h1 align="center">こんにちは、 ゾハイブです</h1>
-<h3 align="center">19 year old Computer Science Student interested in application/software development.</h3>
+<h3 align="center">19 year old Computer Science Student who enjoys Coding</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/55/70/6d/55706d3bcac8a4a3d4aae881f9946b0f.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=woound&label=Profile%20views&color=0e75b6&style=flat" alt="woound" /> </p>
