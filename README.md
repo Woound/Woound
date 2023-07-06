@@ -5,5 +5,5 @@
 <h2 align="center">🛠️ Technologies and Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=discord,vscode,html,css,js,nodejs,express,postman,mongodb,firebase,git,react,tailwind,figma&perline=7" alt="Technologies and Tools I use" />
+    <img src="https://skillicons.dev/icons?i=discord,vscode,html,css,js,java,nodejs,express,postman,mongodb,firebase,git,github,react,tailwind,figma&perline=8" alt="Technologies and Tools I use" />
 </div>
