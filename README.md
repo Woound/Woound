@@ -1,4 +1,4 @@
-<h1 align="center">こんにちは、 ゾハイブです</h1>
+<h1 align="center">いらっしゃいませ</h1>
 <h3 align="center">20 year old Computer Science Student who loves to Code</h3>
 
 
